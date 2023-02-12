@@ -1,0 +1,5 @@
+university all in one blog website with firebase datebase 
+
+
+
+index.html is the homepage and style.css is css file reLated to all its design 
